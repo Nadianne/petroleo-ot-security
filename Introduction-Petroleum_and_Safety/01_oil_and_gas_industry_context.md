@@ -7,7 +7,7 @@ O setor de óleo e gás desempenha um papel fundamental na economia global, send
 
 No Brasil, a produção média anual de petróleo e gás natural em 2024 atingiu 4,322 milhões de barris de óleo equivalente por dia (boe/d), segundo dados oficiais (*gov.com.br*, 03/02/2025). [1] 
 
-Assim como toda infraestrutura crítica, e com forte dependência tecnológica, como é o setor petrolífero um ataque a segurança dos dados podem trazer danos a vários pilares que compõe a base da segurança, como: **Confidencialidade**, *Integridade*, **Disponibilidade**, *Autenticidade*, **Responsabilidade**. Gerando assim  impactos econômicos, ambientais e sociais severos.
+Assim como toda infraestrutura crítica, e com forte dependência tecnológica, como é o setor petrolífero um ataque a segurança dos dados podem trazer danos a vários pilares que compõe a base da segurança, como: **Confidencialidade**, **Integridade**, **Disponibilidade**, **Autenticidade**, **Responsabilidade**. Gerando assim  impactos econômicos, ambientais e sociais severos.
 
 De acordo com relatório oferecido pela *Fortinet* em 2023 [2] : As infraestruturas corporativas das empresas de petróleo e gás também permanecerão um alvo de alto valor. Melhorar a cibersegurança será um desafio à medida que o sistema energético mundial se torna cada vez mais complexo, mas também é imperativo.
 
